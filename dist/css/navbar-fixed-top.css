@@ -1,0 +1,45 @@
+body {
+background-image: url('../../images/restaurant.png');
+  min-height: 500px;
+  padding-top: 70px;
+}
+
+	h1 {
+	
+		color: #444;
+		background-color: transparent;
+		font-size: 20px;
+		font-weight: Bold;
+		margin-top:-10px;
+	}
+
+	h2 {
+	font-size:22px;
+	color:green;
+	}
+
+
+	
+
+	
+	
+	p.pagination a, p.pagination strong {
+	background: #e3e3e3;
+	padding: 5px 5px 5px 5px;
+	margin-top: 5px;
+	text-decoration: none;
+	border: 1px solid #cac9c9;
+	color: #292929;
+	font-size: 13px;
+	}
+
+	p.pagination strong, p.pagination a:hover {
+	 font-weight: normal;
+	 background: #cac9c9; 
+	}
+
+
+	
+
+	
+
